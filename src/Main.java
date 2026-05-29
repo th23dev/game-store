@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+
+        // Testando as classes
         Loja steam = new Loja("Steam");
 
         Usuario thaua23sl = new Usuario("Thaua23sl");
